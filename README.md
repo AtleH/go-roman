@@ -1,5 +1,7 @@
 Run the follwing command to run the simple web server:
 
+Testing....
+
 $ go run http.go  
 
 Open browser and goto http://localhost:8000
